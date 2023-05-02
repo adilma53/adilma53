@@ -4,9 +4,9 @@ I'm a C developer and an ALX student. Currently working on a C project and learn
 
 ## 🚀 Tech Stacks:
 
-- C
-- Git
-- Linux
+- C 🧑‍💻
+- Git 🕵️‍♂️
+- Linux 🐧
 
 ## 📈 GitHub Stats:
 
