@@ -1,12 +1,13 @@
 # Hi there, I'm Adil 👋
 
-I'm a C developer and an ALX student. Currently working on a C project and learning new things every day. 
+I'm a full stack developer and an ALX student. Currently working on a web project (dictionary website in sveltekit)and learning new things every day. 
 
 ## 🚀 Tech Stacks:
 
-- C
-- Git
-- Linux
+- JavaScript , ReactJS , SvelteJS
+- Tailwind, CSS, HTML
+- Node.js , Express.js , MongoDB , SQL, Sqlite, Prisma
+- C, Python, Flask, Git, bash
 
 ## 📈 GitHub Stats:
 
