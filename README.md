@@ -6,7 +6,7 @@ I'm a full stack developer and an ALX student. Currently working on a web projec
 
 - JavaScript , ReactJS , SvelteJS
 - Tailwind, CSS, HTML
-- Node.js , Express.js , MongoDB , SQL, Sqlite, Prisma
+- Node.js , Express.js , MongoDB , SQL , Sqlite , Prisma
 - C, Python, Flask, Git, bash
 
 ## 📈 GitHub Stats:
